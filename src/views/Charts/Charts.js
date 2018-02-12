@@ -9,7 +9,7 @@ const myCharts = {
     labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
     datasets: [
       {
-        label: 'Custom Line Chart',
+        label: 'Yujie Line Chart',
         fill: false,
         lineTension: 0.1,
         backgroundColor: 'rgba(75,192,192,0.4)',
