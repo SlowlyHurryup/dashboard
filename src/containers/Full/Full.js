@@ -29,12 +29,12 @@ import * as firebase from 'firebase';
 // TODO: Replace with your project's customized code snippet
 
 var config = {
-    apiKey: "AIzaSyBPweAHcP4em0PYh8XWzEqjNhTk3OBNS5I",
-    authDomain: "dashboard-dev-8b843.firebaseapp.com",
-    databaseURL: "https://dashboard-dev-8b843.firebaseio.com",
-    projectId: "dashboard-dev-8b843",
-    storageBucket: "dashboard-dev-8b843.appspot.com",
-    messagingSenderId: "264557605189"
+    apiKey: "AIzaSyBZ5QztAy1_WRbAkmEW2y-4il0CaWRtxSQ",
+    authDomain: "dashboard-54d54.firebaseapp.com",
+    databaseURL: "https://dashboard-54d54.firebaseio.com",
+    projectId: "dashboard-54d54",
+    storageBucket: "dashboard-54d54.appspot.com",
+    messagingSenderId: "499720138045"
   };
 firebase.initializeApp(config);
 
