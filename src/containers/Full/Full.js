@@ -28,6 +28,8 @@ import * as firebase from 'firebase';
 // Initialize Firebase
 // TODO: Replace with your project's customized code snippet
 
+
+// Initialize Firebase
 var config = {
     apiKey: "AIzaSyBZ5QztAy1_WRbAkmEW2y-4il0CaWRtxSQ",
     authDomain: "dashboard-54d54.firebaseapp.com",
